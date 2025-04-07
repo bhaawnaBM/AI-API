@@ -1,0 +1,12 @@
+#joke-button {
+    color: white;
+    background-color: brown;
+    padding: 10px 10px;
+    font-size: large;
+    border-radius: 5px;
+}
+
+#joke {
+    color: green;
+    font: large;
+}
